@@ -2,9 +2,9 @@ package something
 
 import "fmt"
 
-func sayHello() {
+func SayHello() {
 	fmt.Println("Say Hello")
 }
-func sayBye() {
+func SayBye() {
 	fmt.Println("Say Bye")
 }
