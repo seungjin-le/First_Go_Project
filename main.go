@@ -10,3 +10,4 @@ func main() {
 	something.SayHello()
 	something.SayBye()
 }
+
